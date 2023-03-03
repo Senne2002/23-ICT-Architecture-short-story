@@ -5,7 +5,6 @@ Auteur: Senne
 zin 1 <br/> zin 2
 
 
+![1639516488701](https://user-images.githubusercontent.com/91462827/222702794-89fe296d-42aa-495c-a2fd-f7126a6cec64.jpg)
 
-<img src="[markdownmonstericon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbe.linkedin.com%2Fin%2Fwalterdeprins&psig=AOvVaw3FrwvYpC4ojMqyDSdWjtW9&ust=1677927238829000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJigjpTMv_0CFQAAAAAdAAAAABAE)"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+
